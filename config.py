@@ -1,5 +1,5 @@
-HOST = "localhost"
-# HOST = "127.0.0.1:3306"
-USER ="root"
-PASSWORD = "Annsql*1"
 
+
+HOST = "YOUR HOST NAME"
+USER = "YOUR USERNAME"
+PASSWORD = "YOUR PASSWORD"
