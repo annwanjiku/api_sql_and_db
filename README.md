@@ -1,1 +1,1 @@
-A guide to this project can be found in the Markdown.md file above.
+A guide to this project can be found in the markdown.md file above.
