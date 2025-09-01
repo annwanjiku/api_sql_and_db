@@ -1,4 +1,4 @@
-# WEMA THERAPY
+# Wema Therapy
 
 "Health begins within us"it is important that we prioritize mental health.
 
@@ -42,6 +42,7 @@ _Improvements for the project_
 #
 
 <strong>Repository_link </strong>https://github.com/annwanjiku/api_sql_and_db
+
 
 
 
